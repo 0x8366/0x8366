@@ -1,16 +1,20 @@
-## Hi there 👋
+<div style="
+  background-color: #000;
+  color: #00ff55;
+  padding: 20px;
+  border-radius: 10px;
+  font-family: 'Courier New', monospace;
+  font-size: 15px;
+  border: 1px solid #00ff55;
+  box-shadow: 0 0 8px #00ff55;
+  line-height: 1.5em;
+">
 
-<!--
-**0x8366/0x8366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span style="color:#00ff55;">root@0x8366</span>:<span style="color:#55ff55;">~</span>$ cat 0x8366<br>
+&gt; <span style="color:#00ff55;">CTF player with Lil L3ak</span><br>
+&gt; <span style="color:#00ff55;">Mostly an OSINT enjoyer</span><br>
+&gt; <span style="color:#00ff55;">Perpetual learner and digital nomad</span>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
