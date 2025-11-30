@@ -1,1 +1,1 @@
-![Terminal demo](https://github.com/0x8366/assets-images/raw/main/terminal.gif)
+![Terminal demo](https://github.com/0x8366/assets-images/blob/main/terminal.gif?raw=true)
